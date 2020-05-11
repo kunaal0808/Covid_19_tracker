@@ -4,6 +4,6 @@
 <title>Lecture 0</title>
 </head>
 <body>
-hello world hello again!
+hello world
 </body>
 </html>
